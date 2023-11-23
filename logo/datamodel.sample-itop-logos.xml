@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <itop_design xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
   <branding>
-    <main_logo _delta="define">logo/custom-logo.png</main_logo>
-    <main_logo_compact _delta="define">logo/custom-logo-compact.png</main_logo_compact>
+    <main_logo _delta="define">logo/ttc-logo.png</main_logo>
+    <main_logo_compact _delta="define">logo/ttc-logo-compact.png</main_logo_compact>
   </branding>
 </itop_design>
